@@ -1,3 +1,3 @@
-module github.com/lakmal-fernando/env_test
+module github.com/lakmal-fernando/env
 
 go 1.16
